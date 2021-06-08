@@ -1,3 +1,3 @@
 # deconvolution demo
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rachel-kt/deconvolutionDemo/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rachel-kt/deconvolutionDemo/master?filepath=Deconvolution_demo.ipynb)
